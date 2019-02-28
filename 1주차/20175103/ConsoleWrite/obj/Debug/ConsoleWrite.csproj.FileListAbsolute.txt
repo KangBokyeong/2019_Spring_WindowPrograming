@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

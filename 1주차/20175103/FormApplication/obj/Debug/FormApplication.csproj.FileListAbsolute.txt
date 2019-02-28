@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\bin\Debug\FormApplication.exe.config
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\bin\Debug\FormApplication.exe
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\bin\Debug\FormApplication.pdb
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.MainForm.resources
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.Properties.Resources.resources
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.exe
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\FormApplication\obj\Debug\FormApplication.pdb

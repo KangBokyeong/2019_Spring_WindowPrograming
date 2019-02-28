@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\bin\Debug\helloCsharp.exe.config
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\bin\Debug\helloCsharp.exe
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\bin\Debug\helloCsharp.pdb
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\obj\Debug\helloCsharp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\obj\Debug\helloCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\obj\Debug\helloCsharp.exe
+C:\Users\Owner\Desktop\WindowProgramming\1주차\20175103\helloCsharp\obj\Debug\helloCsharp.pdb
